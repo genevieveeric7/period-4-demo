@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 /**
- * A basic Number Guesser game.
+ * A bare bones Number Guesser game. Still fun.
  *
  * @author David Herring
  * @version 3/11/19
